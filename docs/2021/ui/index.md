@@ -28,3 +28,8 @@ The UI Migration project is an effort focused on generating the new component-ba
   codebase simpler for other contributors.
 
 Check out the [installation steps](installation) for the project.
+
+### Authors
+
+- [Shruti Agarwal](https://github.com/Shruti3004)
+- [Aman Dwivedi](https://github.com/Aman-Codes)
